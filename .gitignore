@@ -1,0 +1,2 @@
+# 只忽略.vscode目录，不忽略.vscode文件
+.vscode/
